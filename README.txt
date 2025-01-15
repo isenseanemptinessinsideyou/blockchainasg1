@@ -1,10 +1,11 @@
-# Blockchain Assignment: Simple Wallet
+Blockchain Assignment: SimpleWallet
 
-## Usage
-1. Deploy the contract using Remix or Web3.js.
-2. Interact using Web3.js with the provided functions.
+Instructions
+Deploy the smart contract using either Remix IDE or Web3.js.
+Use Web3.js to interact with the deployed contract and call its functions.
+Example Usage
+To check the contract's balance, run the following command:
 
-## Example
-To check balance:
-```bash
+bash
 node index.js
+
